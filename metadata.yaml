@@ -1,0 +1,25 @@
+_repo: The-Life-and-Times-of-Queen-Victoria-vol-3-of-4_63370
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wilson, Robert
+    birthdate: 1846
+    deathdate: 1893
+    gutenberg_agent_id: '51638'
+    url: http://www.gutenberg.org/2009/agents/51638
+description: ''
+gutenberg_issued: '2020-10-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63370'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Great Britain -- History -- Victoria, 1837-1901'
+- !lcsh 'Victoria, Queen of Great Britain, 1819-1901'
+- GITenberg
+title: The Life and Times of Queen Victoria; vol. 3 of 4
+url: http://www.gutenberg.org/ebooks/63370
